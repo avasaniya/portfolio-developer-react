@@ -1,6 +1,5 @@
 
 <h1 align="center">Welcome to developer-portfolio 👋</h1>
-<a href="https://github.com/1hanzla100/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/developer-portfolio"></a> <a href="https://github.com/1hanzla100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/developer-portfolio"></a>
 
 ### Description
 
@@ -16,7 +15,6 @@ A simple portfolio template for developer/designers built with React.
 
 ## Icons
 
--Iconify Icons are used in skill section. You can find all the icons here: [Iconify](https://icon-sets.iconify.design/).
 -react-icons are used in skill section. You can find all the icons here: [react-icons](https://react-icons.github.io/react-icons/).
 
 ### Features
@@ -37,9 +35,7 @@ Start the server
 
 <pre>yarn start</pre>
 
-### More
 
-Modify pages content in  `src/content_option.js`.
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
