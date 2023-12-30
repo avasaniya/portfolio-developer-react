@@ -17,6 +17,7 @@ A simple portfolio template for developer/designers built with React.
 ## Icons
 
 Iconify Icons are used in skill section. You can find all the icons here: [Iconify](https://icon-sets.iconify.design/).
+react-icons are used in skill section. You can find all the icons here: [react-icons](https://react-icons.github.io/react-icons/).
 
 ### Features
 
