@@ -5,6 +5,10 @@
 
 A simple portfolio template for developer/designers built with React. 
 
+### Screenshot
+
+![](demo.gif)
+
 ## Technologies Used
 
 - [reactstrap](https://reactstrap.github.io/)
